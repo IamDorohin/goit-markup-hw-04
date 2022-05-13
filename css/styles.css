@@ -312,7 +312,7 @@ p {
 
 .team-description {
     padding-top: 30px;
-    padding-bottom: 16px;
+    padding-bottom: 30px;
 }
 
 .team-members {
@@ -326,7 +326,7 @@ p {
 .team-skills {
     font-size: 16px;
     line-height: 1.19;
-    margin-bottom: 28px;
+    margin-bottom: 16px;
 }
 
 .socials-list {
